@@ -1,2 +1,1 @@
-# Uj
-This repository will help to improve personal information 
+I'm now a ALX Student, this is my first repository as a full-stack engineer
